@@ -1,3 +1,4 @@
+//@ricky_o_369의 Dynamic Cube Art코드를 사용하여 수정한 작품입니다.
 let angle = 0;
 let w = 30;
 let ma;
